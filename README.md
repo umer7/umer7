@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 
 [![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 umer7/umer7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
