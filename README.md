@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-[![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer7)](https://github.com/anuraghazra/github-readme-stats)
+[![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer7&show_icons=true&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
